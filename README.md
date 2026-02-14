@@ -102,16 +102,13 @@ npm run preview   # Preview production build
 ```
 
 ---
-
 ## 👨‍💻 Author
 
-**Dhanuka Navodya**
-Full Stack Developer
+**Dhanuka Navodya**  
+Software Engineer  
 
-📧 Email: [dhanukanavodya97@gmail.com](mailto:dhanukanavodya97@gmail.com)
-🔗 GitHub: [https://github.com/DhanukaNavodya](https://github.com/DhanukaNavodya)
-🔗 LinkedIn: [https://www.linkedin.com/in/dhanuka-navodya-a69351314/](https://www.linkedin.com/in/dhanuka-navodya-a69351314/)
+📧 Email: dhanukanavodya97@gmail.com  
+🔗 GitHub: https://github.com/DhanukaNavodya  
+🔗 LinkedIn: https://www.linkedin.com/in/dhanuka-navodya-a69351314/
 
 ---
-
-Do you want me to do that?
